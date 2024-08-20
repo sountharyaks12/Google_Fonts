@@ -1,0 +1,35 @@
+* {
+    background-color: rgb(138, 123, 123);
+}
+
+h1 {
+    font-family: "Montserrat Subrayada", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    background: linear-gradient(13deg, #1D4350 0%,#EF629F 50% );
+    -webkit-background-clip: text;
+    color: transparent;
+
+}
+
+.p1 {
+    font-family: "Cormorant SC", serif;
+    font-weight: bold;
+    font-size: 20px;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.p2 {
+    font-family: "Six Caps", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.p3 {
+    font-family: "Charmonman", cursive;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 20px;
+}
